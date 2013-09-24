@@ -14,3 +14,5 @@ gem 'capistrano'
 gem 'capistrano-ext'
 
 gem 'tw', git: 'https://github.com/shokai/tw.git'
+
+gem 'weechat'

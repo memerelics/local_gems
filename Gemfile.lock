@@ -59,6 +59,8 @@ GEM
       oauth (~> 0.4.7)
       yajl-ruby (~> 1.1.0)
     uuidtools (2.1.4)
+    weechat (0.0.5)
+      json
     yajl-ruby (1.1.0)
 
 PLATFORMS
@@ -69,3 +71,4 @@ DEPENDENCIES
   capistrano-ext
   ec2ssh
   tw!
+  weechat
